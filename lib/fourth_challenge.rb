@@ -3,8 +3,7 @@ def fourth_challenge
    :montague => {
       :patriarch => {name: "Lord Montague", age: "53"},
       :matriarch => {name: "Lady Montague", age: "54"},
-      :hero => {{name: "Benvolio", age: "17", attitude: "worried"},
-         {name: "Mercutio", age: "18", attitude: "hot-headed"}},
+      :hero => ,
       :hero_friends => [
         {name: "Benvolio", age: "17", attitude: "worried"},
          {name: "Mercutio", age: "18", attitude: "hot-headed"}
